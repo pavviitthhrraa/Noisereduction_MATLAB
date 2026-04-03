@@ -15,7 +15,7 @@ I implemented a simple **moving average filter** to reduce noise in an audio sig
 - Audio playback demonstrates noise reduction.
   Here are the plots showing the original, noisy, and filtered signals:
 
-![Noise Reduction Results](noise_reduction.png)
+![Noise Reduction Results](<img width="1086" height="701" alt="noise_reduction" src="https://github.com/user-attachments/assets/645cd7a8-10bf-4ca6-b743-e6965b5cb611" />)
 
 
 
